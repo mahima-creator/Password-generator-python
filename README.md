@@ -1,12 +1,11 @@
 # Password-generator-python
-# 🔐 Password Generator
 
-## 📖 Description
+## Description
 The Password Generator is a Python-based console application that creates strong and random passwords based on the user's preferences. The user specifies how many uppercase letters, lowercase letters, digits, and special characters to include, and the program generates a secure password.
 
 ---
 
-## ✨ Features
+##  Features
 - Generate random passwords
 - Choose the number of uppercase letters
 - Choose the number of lowercase letters
@@ -17,10 +16,10 @@ The Password Generator is a Python-based console application that creates strong
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 3
 
-## 📚 Python Concepts Used
+## Python Concepts Used
 - Variables
 - Lists
 - Loops (`for`)
@@ -33,7 +32,7 @@ The Password Generator is a Python-based console application that creates strong
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Python 3.
 2. Download or clone this repository.
@@ -53,7 +52,7 @@ python password_generator.py
 
 ---
 
-## 📌 Sample Output
+## Sample Output
 
 ```
 ========================================
@@ -74,7 +73,7 @@ Generated Password:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Password-Generator/
@@ -88,7 +87,7 @@ Password-Generator/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Password strength checker
 - Copy password to clipboard
 - Generate multiple passwords at once
@@ -97,7 +96,7 @@ Password-Generator/
 
 ---
 
-## 👩‍💻 Author
+##  Author
    Maheshwari
 
 ---
